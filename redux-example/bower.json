@@ -1,6 +1,7 @@
 {
   "name": "redux-example",
   "description": "Rubix - ReactJS Admin Template",
+  "authors": [
     "Sketchpixy <support@sketchpixy.com>"
   ],
   "copyright": "SketchPixy LLP, email: support@sketchpixy.com",
